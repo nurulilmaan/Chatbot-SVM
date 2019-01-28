@@ -6,13 +6,14 @@ Chatbot using Support Vector Machine and Cosine Similarity
 ### Prerequisites
 These are the things that you need for this project
 ```
-Django 2.1.2
-Requests 2.9.1
-Numpy 1.15.4
-Pandas 0.23.4
-Scikit-learn 0.20.1
-Beautifulsoup4 4.6.3
-Scipy 1.1.0
+Django == 2.1.2
+django-cors-header
+requests == 2.9.1
+numpy == 1.15.4
+pandas == 0.23.4
+scikit-learn == 0.20.1
+beautifulsoup4 == 4.6.3
+scipy == 1.1.0
 ```
 
 ### Dataset
